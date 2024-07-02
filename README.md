@@ -50,7 +50,7 @@ I am Somia Amer, an iOS developer specializing in Swift and Objective-C 💪🔥
 
 ## Projects
 
-- [ITI graduation project](https://github.com/somia213/Admin-Shopify.git) - Brief description of your project goes here.
+- [ITI graduation project](https://github.com/somia213/Admin-Shopify.git)
 
 ## Contact Me
 
