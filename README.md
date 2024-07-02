@@ -18,7 +18,7 @@ I am Somia Amer, an iOS developer specializing in Swift and Objective-C 💪🔥
 - 🎓💡 I believe that education is key to personal growth and development!
 - 🌍✅ Learning is a never-ending adventure, and I'm so excited to be on this journey!
 
-## Additional Information
+### Additional Information
 
 - 📝 I love writing and have contributed to several academic books across the Arab world.
 - 🌐 I have a passion for knowledge and have studied WordPress, PHP, HTML, and CSS. I worked as a WordPress developer freelancer for 3 months before joining ITI for a 9-month Mobile Native intake (44).
@@ -31,7 +31,7 @@ I am Somia Amer, an iOS developer specializing in Swift and Objective-C 💪🔥
 - Java ☕️
 - C/C++ 🔧
 
-  ##🍎📱 IOS Framework Skills
+## 🍎📱 iOS Framework Skills
 
 - CoreData
 - UserDefaults
@@ -40,26 +40,25 @@ I am Somia Amer, an iOS developer specializing in Swift and Objective-C 💪🔥
 - CocoaPods (Kingfisher, SDWebImage, Reachability, Lottie, Google Maps)
 - Unit Testing
 
- ##🤝💬 Soft Skills:
+## 🤝💬 Soft Skills
+
 - Communication 💬
 - Teamwork 👥
 - Self-learning 📚
 - Research 🔎
 - Working under pressure ⏰
 
- ## Projects
+## Projects
 
-- [ITI graduation project](https://github.com/somia213/Admin-Shopify.git)
+- [ITI graduation project](https://github.com/somia213/Admin-Shopify.git) - Brief description of your project goes here.
 
-### Contact Me
+## Contact Me
 
 - LinkedIn: [Somia Amer](https://www.linkedin.com/in/somia-amer-800a77231/)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [somiaamer8@gmail.com](mailto:somiaamer8@gmail.com)
 
 Feel free to reach out if you have any questions or collaboration opportunities!
 
-
-Feel free to reach out if you have any questions or collaboration opportunities!
 <!-- Write a brief introduction about yourself, your background, interests, and any relevant experience or projects. -->
 <!--
 **somia213/somia213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
