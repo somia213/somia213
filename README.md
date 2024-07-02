@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/7abd360f-def1-4cd4-bcbe-a4b423112809)
+![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/b7e4283a-22f4-4d40-8162-94f4092040bc)
 
 I am an ITI graduate💪🔥.
 
