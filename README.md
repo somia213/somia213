@@ -1,10 +1,30 @@
 ## Hi there 👋
 ![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/b7e4283a-22f4-4d40-8162-94f4092040bc)
 
-I am an ITI graduate💪🔥.
+I am Somia Amer, an iOS developer specializing in Swift and Objective-C.
 
-### About Me
-I possess a command of Xcode, utilizing it effectively to develop iOS applications. My expertise extends to leveraging Alamofire for seamless networking and integrating CoreData for efficient data management within applications. I ensure optimal user experience by implementing Reachability to maintain network connectivity awareness. My proficiency in UIKit allows me to design intuitive and responsive interfaces that enhance usability. With a professional approach, I combine these skills to create applications that are both technically sound and user-friendly. 
+## About Me
+
+-💪 ITI graduate with expertise in iOS development
+- 📱 Skilled in Swift and Objective-C for iOS app development
+- 🛠️ Proficient in Xcode for app development and debugging
+- 🌐 Experienced in Alamofire for seamless networking
+- 🗃️ Familiar with CoreData for efficient data management
+- 📶 Implemented Reachability for network connectivity awareness
+- 🎨 Designed intuitive and responsive UI using UIKit
+- 🤓📚 I absolutely love learning new things!
+- 🌱🧠 Growing my knowledge and skills brings me so much joy!
+- 🚀🌟 I'm always seeking out new opportunities to learn and expand my horizons!
+- 🎓💡 I believe that education is key to personal growth and development!
+- 🌍✅ Learning is a never-ending adventure, and I'm so excited to be on this journey!
+
+### Additional Information
+
+- 📝 I love writing and have contributed to several academic books across the Arab world.
+- 🌐 I have a passion for knowledge and have studied WordPress, PHP, HTML, and CSS. I worked as a WordPress developer freelancer for 3 months before joining ITI for a 9-month Mobile Native intake (44).
+
+### Projects
+
 
 <!-- Write a brief introduction about yourself, your background, interests, and any relevant experience or projects. -->
 <!--
