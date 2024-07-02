@@ -20,15 +20,17 @@ I am Somia Amer, an iOS developer specializing in Swift and Objective-C 💪🔥
 
 ### Additional Information
 
-- 📝 I love writing and have contributed to writing short stories in comprehensive books by more than one Arab writer in the Arab world.
+- 📝 I love writing and have contributed to several academic books across the Arab world.
 - 🌐 I have a passion for knowledge and have studied WordPress, PHP, HTML, and CSS. I worked as a WordPress developer freelancer for 3 months before joining ITI for a 9-month Mobile Native intake (44).
 
-###👨‍💻 Programming Languages Skills :
-Swift 🚀
-Objective-C 📱
-Kotlin 🚀
-Java ☕️
-C/C++ 🔧
+### 👨‍💻 Programming Languages Skills
+
+- Swift 🚀
+- Objective-C 📱
+- Kotlin 🚀
+- Java ☕️
+- C/C++ 🔧
+
 
 <!-- Write a brief introduction about yourself, your background, interests, and any relevant experience or projects. -->
 <!--
