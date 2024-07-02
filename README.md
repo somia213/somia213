@@ -31,7 +31,7 @@ I am Somia Amer, an iOS developer specializing in Swift and Objective-C 💪🔥
 - Java ☕️
 - C/C++ 🔧
 
-  ## 🍎📱 IOS Framework Skills (Additional background):
+  ##🍎📱 IOS Framework Skills
 
 - CoreData
 - UserDefaults
@@ -40,7 +40,26 @@ I am Somia Amer, an iOS developer specializing in Swift and Objective-C 💪🔥
 - CocoaPods (Kingfisher, SDWebImage, Reachability, Lottie, Google Maps)
 - Unit Testing
 
+ ##🤝💬 Soft Skills:
+- Communication 💬
+- Teamwork 👥
+- Self-learning 📚
+- Research 🔎
+- Working under pressure ⏰
 
+ ## Projects
+
+- [ITI graduation project](https://github.com/somia213/Admin-Shopify.git)
+
+### Contact Me
+
+- LinkedIn: [Somia Amer](https://www.linkedin.com/in/somia-amer-800a77231/)
+- Email: [your.email@example.com](mailto:your.email@example.com)
+
+Feel free to reach out if you have any questions or collaboration opportunities!
+
+
+Feel free to reach out if you have any questions or collaboration opportunities!
 <!-- Write a brief introduction about yourself, your background, interests, and any relevant experience or projects. -->
 <!--
 **somia213/somia213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
