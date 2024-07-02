@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/b7e4283a-22f4-4d40-8162-94f4092040bc)
 
-I am Somia Amer, an iOS developer specializing in Swift and Objective-C.
+I am Somia Amer, an iOS developer specializing in Swift and Objective-C 💪🔥.
 
 ## About Me:
 
@@ -23,8 +23,12 @@ I am Somia Amer, an iOS developer specializing in Swift and Objective-C.
 - 📝 I love writing and have contributed to writing short stories in comprehensive books by more than one Arab writer in the Arab world.
 - 🌐 I have a passion for knowledge and have studied WordPress, PHP, HTML, and CSS. I worked as a WordPress developer freelancer for 3 months before joining ITI for a 9-month Mobile Native intake (44).
 
-### Projects
-
+###👨‍💻 Programming Languages Skills :
+Swift 🚀
+Objective-C 📱
+Kotlin 🚀
+Java ☕️
+C/C++ 🔧
 
 <!-- Write a brief introduction about yourself, your background, interests, and any relevant experience or projects. -->
 <!--
