@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/7abd360f-def1-4cd4-bcbe-a4b423112809)
+<div style="display: flex; justify-content: center; align-items: center;"> <img src="https://github.com/somia213/somia213/assets/105312434/7abd360f-def1-4cd4-bcbe-a4b423112809" alt="GitHub Logo" style="border-radius: 50%; width: 150px; height: 150px;"> </div>
 
-I am an ITI (Industrial Training Institute) graduate.
+I am an ITI graduate💪🔥.
 
 ### About Me
 
