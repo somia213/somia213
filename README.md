@@ -3,9 +3,9 @@
 
 I am Somia Amer, an iOS developer specializing in Swift and Objective-C.
 
-## About Me
+## About Me:
 
--💪 ITI graduate with expertise in iOS development
+- 💪 ITI graduate with expertise in iOS development
 - 📱 Skilled in Swift and Objective-C for iOS app development
 - 🛠️ Proficient in Xcode for app development and debugging
 - 🌐 Experienced in Alamofire for seamless networking
