@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/7abd360f-def1-4cd4-bcbe-a4b423112809)
+
+I am an ITI (Industrial Training Institute) graduate.
+
+### About Me
+
+<!-- Write a brief introduction about yourself, your background, interests, and any relevant experience or projects. -->
 <!--
 **somia213/somia213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
