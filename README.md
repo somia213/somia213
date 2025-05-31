@@ -1,5 +1,6 @@
 Hi there 👋
 
+![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/b7e4283a-22f4-4d40-8162-94f4092040bc)
 
 I’m Somia Amer, a passionate iOS and Flutter developer, specializing in Swift, Objective-C, and Dart 💪🔥.
 
