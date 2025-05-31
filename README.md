@@ -1,76 +1,95 @@
-## Hi there 👋
-![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/b7e4283a-22f4-4d40-8162-94f4092040bc)
+Hi there 👋
 
-I am Somia Amer, an iOS developer specializing in Swift and Objective-C 💪🔥.
 
-## About Me
+I’m Somia Amer, a passionate iOS and Flutter developer, specializing in Swift, Objective-C, and Dart 💪🔥.
 
-- 💪 ITI graduate with expertise in iOS development
-- 📱 Skilled in Swift and Objective-C for iOS app development
-- 🛠️ Proficient in Xcode for app development and debugging
-- 🌐 Experienced in Alamofire for seamless networking
-- 🗃️ Familiar with CoreData for efficient data management
-- 📶 Implemented Reachability for network connectivity awareness
-- 🎨 Designed intuitive and responsive UI using UIKit
-- 🤓📚 I absolutely love learning new things!
-- 🌱🧠 Growing my knowledge and skills brings me so much joy!
-- 🚀🌟 I'm always seeking out new opportunities to learn and expand my horizons!
-- 🎓💡 I believe that education is key to personal growth and development!
-- 🌍✅ Learning is a never-ending adventure, and I'm so excited to be on this journey!
+👩‍💻 About Me
+🎓 ITI graduate specialized in Mobile Native Development (Intake 44)
 
-### Additional Information
+📱 Skilled in iOS development with Swift and Objective-C
 
-- 📝 I love writing and have contributed to writing many short stories in more than one comprehensive book by more than one Arab writer throughout the Arab world.
-- 🌐 I have a passion for knowledge and have studied WordPress, PHP, HTML, and CSS. I worked as a WordPress developer freelancer for 3 months before joining ITI for a 9-month Mobile Native intake (44).
+💙 Recently expanded into Flutter and Dart for cross-platform app development
 
-## 👨‍💻 Programming Languages Skills
+🛠️ Proficient in Xcode and Android Studio for app building and debugging
 
-- Swift 🚀
-- Objective-C 📱
-- Kotlin 🚀
-- Java ☕️
-- C/C++ 🔧
+🌐 Experienced with Alamofire and Dio for networking
 
-## 🍎📱 iOS Framework Skills
+🗃️ Solid knowledge of CoreData, UserDefaults, and SQLite for data storage
 
-- CoreData
-- UserDefaults
-- RXSwift
-- Storyboard
-- CocoaPods (Kingfisher, SDWebImage, Reachability, Lottie, Google Maps)
-- Unit Testing
+📶 Implemented Reachability for managing network status
 
-## 🤝💬 Soft Skills
+🎨 Designed beautiful and responsive UIs using UIKit and Flutter Widgets
 
-- Communication 💬
-- Teamwork 👥
-- Self-learning 📚
-- Research 🔎
-- Working under pressure ⏰
+🤓 I love learning and diving into new tech stacks
 
-## Projects
+🌱 Constantly improving and embracing lifelong learning
 
-- [ITI graduation project](https://github.com/somia213/Admin-Shopify.git)
+🚀 Always open to exciting opportunities and collaborations
 
-## Contact Me
+✍️ Additional Info
+📝 I’ve contributed short stories to collaborative Arabic literary books
 
-- LinkedIn: [Somia Amer](https://www.linkedin.com/in/somia-amer-800a77231/)
-- Email: [somiaamer8@gmail.com](mailto:somiaamer8@gmail.com)
+🌐 Previously worked as a freelance WordPress developer (HTML, CSS, PHP)
 
-Feel free to reach out if you have any questions or collaboration opportunities!
+📱 My development journey started with web, moved to iOS, and now also includes Flutter
 
-<!-- Write a brief introduction about yourself, your background, interests, and any relevant experience or projects. -->
-<!--
-**somia213/somia213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programming Languages
+Swift 🚀
 
-Here are some ideas to get you started:
+Objective-C 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Dart 🎯
+
+Kotlin 🚀
+
+Java ☕️
+
+C/C++ 🔧
+
+🍎📱 iOS Framework Skills
+CoreData
+
+UserDefaults
+
+RXSwift
+
+Storyboard
+
+UIKit
+
+CocoaPods (Kingfisher, SDWebImage, Reachability, Lottie, Google Maps)
+
+Unit Testing
+
+🐦📱 Flutter & Dart Skills
+Flutter UI Design (Stateless & Stateful Widgets)
+
+State Management (Provider, setState)
+
+RESTful APIs using the HTTP package
+
+Firebase Integration
+
+Cross-platform development for Android & iOS
+
+Dependency management with pubspec.yaml
+
+🤝 Soft Skills
+Communication 💬
+
+Teamwork 👥
+
+Self-learning 📚
+
+Research 🔎
+
+Time Management & Working under pressure ⏰
+
+🚀 Projects
+🎓 ITI Graduation Project – Admin Shopify
+
+📬 Contact Me
+LinkedIn: Somia Amer
+
+Email: somiaamer8@gmail.com
+
