@@ -1,96 +1,86 @@
-Hi there 👋
+# 👋 Hi there!
 
 ![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/b7e4283a-22f4-4d40-8162-94f4092040bc)
 
-I’m Somia Amer, a passionate iOS and Flutter developer, specializing in Swift, Objective-C, and Dart 💪🔥.
+I'm **Somia Amer**, a passionate iOS and Flutter developer, specializing in **Swift, Objective-C, and Dart** 💪🔥.
 
-👩‍💻 About Me
-🎓 ITI graduate specialized in Mobile Native Development (Intake 44)
+---
 
-📱 Skilled in iOS development with Swift and Objective-C
+## 👩‍💻 About Me
 
-💙 Recently expanded into Flutter and Dart for cross-platform app development
+🎓 ITI Graduate – Mobile Native Development (Intake 44)  
+📱 Skilled in iOS development using **Swift** and **Objective-C**  
+💙 Recently expanded into **Flutter** for cross-platform app development  
+🛠️ Proficient in **Xcode**, **Android Studio**, **Alamofire**, **Dio**  
+🗃️ Experience with **CoreData**, **UserDefaults**, **SQLite**  
+📶 Integrated **Reachability** for network status handling  
+🎨 UI design with **UIKit** and **Flutter Widgets**  
+🌱 Always learning and improving
 
-🛠️ Proficient in Xcode and Android Studio for app building and debugging
+---
 
-🌐 Experienced with Alamofire and Dio for networking
+## 💻 Programming Languages
 
-🗃️ Solid knowledge of CoreData, UserDefaults, and SQLite for data storage
+- Swift 🚀  
+- Objective-C 📱  
+- Dart 🎯  
+- Kotlin 🚀  
+- Java ☕  
+- C/C++ 🔧
 
-📶 Implemented Reachability for managing network status
+---
 
-🎨 Designed beautiful and responsive UIs using UIKit and Flutter Widgets
+## 🍎 iOS Framework Skills
 
-🤓 I love learning and diving into new tech stacks
+- CoreData, UserDefaults, Storyboard, UIKit  
+- RXSwift, CocoaPods  
+- Libraries: Kingfisher, SDWebImage, Reachability, Lottie, Google Maps  
+- Unit Testing
 
-🌱 Constantly improving and embracing lifelong learning
+---
 
-🚀 Always open to exciting opportunities and collaborations
+## 🐦 Flutter & Dart Skills
 
-✍️ Additional Info
-📝 I’ve contributed short stories to collaborative Arabic literary books
+- Stateless & Stateful Widget Design  
+- State Management (Provider, `setState`)  
+- REST APIs (HTTP package)  
+- Firebase Integration  
+- Android/iOS cross-platform support  
+- Dependency management (`pubspec.yaml`)
 
-🌐 Previously worked as a freelance WordPress developer (HTML, CSS, PHP)
+---
 
-📱 My development journey started with web, moved to iOS, and now also includes Flutter
+## ✍️ Additional Info
 
-💻 Programming Languages
-Swift 🚀
+- 📝 Contributor to collaborative Arabic short story books  
+- 🌐 Former freelance **WordPress** developer (HTML, CSS, PHP)  
+- 📱 Started in web, moved to iOS, now working with Flutter  
 
-Objective-C 📱
+---
 
-Dart 🎯
+## 🤝 Soft Skills
 
-Kotlin 🚀
+- Communication 💬  
+- Teamwork 👥  
+- Research & Self-Learning 🔎  
+- Time Management ⏰  
 
-Java ☕️
+---
 
-C/C++ 🔧
+## 🚀 Projects
 
-🍎📱 iOS Framework Skills
-CoreData
+- 🍽️ [**FoodPlanner App**](https://github.com/somia213/FoodPlannerApp2) – A Flutter app to explore meals, view ingredients, watch recipe videos, and save favorites locally using SQLite.  
 
-UserDefaults
+- 🎓 [**Admin Shopify**](https://github.com/somia213/Admin-Shopify.git) – Admin panel to view products, search, add to favorites, delete favorites, and manage the shop efficiently.
 
-RXSwift
 
-Storyboard
 
-UIKit
+---
 
-CocoaPods (Kingfisher, SDWebImage, Reachability, Lottie, Google Maps)
+## 📬 Contact Me
 
-Unit Testing
+- 📧 **Email:** [somiaamer8@gmail.com](mailto:somiaamer8@gmail.com)  
+- 💼 **LinkedIn:** [Somia Amer](https://www.linkedin.com/in/somia-amer-800a77231)
 
-🐦📱 Flutter & Dart Skills
-Flutter UI Design (Stateless & Stateful Widgets)
 
-State Management (Provider, setState)
-
-RESTful APIs using the HTTP package
-
-Firebase Integration
-
-Cross-platform development for Android & iOS
-
-Dependency management with pubspec.yaml
-
-🤝 Soft Skills
-Communication 💬
-
-Teamwork 👥
-
-Self-learning 📚
-
-Research 🔎
-
-Time Management & Working under pressure ⏰
-
-🚀 Projects
-🎓 ITI Graduation Project – Admin Shopify
-
-📬 Contact Me
-LinkedIn: Somia Amer
-
-Email: somiaamer8@gmail.com
-
+_Thanks for visiting my profile! I'm always open to new opportunities and collaborations._
