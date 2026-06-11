@@ -2,7 +2,7 @@
 
 ![GitHub Logo](https://github.com/somia213/somia213/assets/105312434/b7e4283a-22f4-4d40-8162-94f4092040bc)
 
-I'm **Sama**, a **Data Analyst** with a strong foundation in **Software Engineering (ITI Graduate)** and hands-on experience in building **data-driven solutions** using **Python, SQL, Excel, and Power BI**.  
+I'm **Somia Amer**, a **Data Analyst** with a strong foundation in **Software Engineering (ITI Graduate)** and hands-on experience in building **data-driven solutions** using **Python, SQL, Excel, and Power BI**.  
 I specialize in transforming raw data into clear, actionable insights that drive smarter business decisions.
 
 ---
